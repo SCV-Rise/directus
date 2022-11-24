@@ -25,7 +25,7 @@
 		"*.{md,y?(a)ml,json}": "prettier --write"
 	},
 	"devDependencies": {
-		"@directus/shared": "workspace:*",
+		"@directus/shared": "9.21.0",
 		"@types/jest": "29.2.3",
 		"@types/lodash": "4.14.189",
 		"@types/seedrandom": "3.0.2",

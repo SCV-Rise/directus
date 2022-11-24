@@ -23,3 +23,8 @@ schema.yaml
 schema.json
 .*.swp
 debug
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
